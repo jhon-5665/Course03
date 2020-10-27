@@ -1,0 +1,13 @@
+C:\Users\estoque.bhe\source\repos\Course03\Course03\bin\Debug\netcoreapp3.1\Course03.exe
+C:\Users\estoque.bhe\source\repos\Course03\Course03\bin\Debug\netcoreapp3.1\Course03.deps.json
+C:\Users\estoque.bhe\source\repos\Course03\Course03\bin\Debug\netcoreapp3.1\Course03.runtimeconfig.json
+C:\Users\estoque.bhe\source\repos\Course03\Course03\bin\Debug\netcoreapp3.1\Course03.runtimeconfig.dev.json
+C:\Users\estoque.bhe\source\repos\Course03\Course03\bin\Debug\netcoreapp3.1\Course03.dll
+C:\Users\estoque.bhe\source\repos\Course03\Course03\bin\Debug\netcoreapp3.1\Course03.pdb
+C:\Users\estoque.bhe\source\repos\Course03\Course03\obj\Debug\netcoreapp3.1\Course03.csprojAssemblyReference.cache
+C:\Users\estoque.bhe\source\repos\Course03\Course03\obj\Debug\netcoreapp3.1\Course03.AssemblyInfoInputs.cache
+C:\Users\estoque.bhe\source\repos\Course03\Course03\obj\Debug\netcoreapp3.1\Course03.AssemblyInfo.cs
+C:\Users\estoque.bhe\source\repos\Course03\Course03\obj\Debug\netcoreapp3.1\Course03.csproj.CoreCompileInputs.cache
+C:\Users\estoque.bhe\source\repos\Course03\Course03\obj\Debug\netcoreapp3.1\Course03.dll
+C:\Users\estoque.bhe\source\repos\Course03\Course03\obj\Debug\netcoreapp3.1\Course03.pdb
+C:\Users\estoque.bhe\source\repos\Course03\Course03\obj\Debug\netcoreapp3.1\Course03.genruntimeconfig.cache
